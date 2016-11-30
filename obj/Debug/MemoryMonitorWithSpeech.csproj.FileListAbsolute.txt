@@ -1,0 +1,8 @@
+c:\users\admin\documents\Projects\MemoryMonitorWithSpeech\bin\Debug\MemoryMonitorWithSpeech.exe.config
+c:\users\admin\documents\Projects\MemoryMonitorWithSpeech\bin\Debug\MemoryMonitorWithSpeech.exe
+c:\users\admin\documents\Projects\MemoryMonitorWithSpeech\bin\Debug\MemoryMonitorWithSpeech.pdb
+c:\users\admin\documents\Projects\MemoryMonitorWithSpeech\obj\Debug\MemoryMonitorWithSpeech.exe
+c:\users\admin\documents\Projects\MemoryMonitorWithSpeech\obj\Debug\MemoryMonitorWithSpeech.pdb
+c:\users\admin\documents\Projects\MemoryMonitorWithSpeech\obj\Debug\MemoryMonitorWithSpeech.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\Projects\MemoryMonitorWithSpeech\obj\Debug\Interop.SpeechLib.dll
+c:\users\admin\documents\Projects\MemoryMonitorWithSpeech\obj\Debug\MemoryMonitorWithSpeech.csproj.ResolveComReference.cache
